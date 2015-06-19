@@ -1,0 +1,11 @@
+.offscreen {
+  position: absolute;
+  left: -1000px;
+  top: 0px;
+  overflow:hidden;
+  width:0;
+}
+
+.subRow {
+	background-color: #CFCFCF; 
+}
