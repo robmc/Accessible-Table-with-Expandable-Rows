@@ -6,6 +6,10 @@
   width:0;
 }
 
+.parentRow {
+	text-align: center;
+}
+
 .subRow {
 	background-color: #CFCFCF; 
 }
